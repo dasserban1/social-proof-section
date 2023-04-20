@@ -45,6 +45,9 @@ h1{
     color: hsl(300, 43%, 22%);
     font-weight: 700;
 }
+svg{
+    margin-right: 0.3em;
+}
 /* End Section Reviews */
 
 /* Customer Reviews */
