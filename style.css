@@ -102,7 +102,7 @@ span{
         justify-content: space-between;
     }
      .section-introductory{
-        width: 350px;
+        width: 22em;
         padding-top: 0;
     }
     .reviews{
@@ -117,7 +117,7 @@ span{
     }
     h1{
         margin: 0;
-        max-width: 300px;
+        max-width: 20em;
         padding: 0;
         text-align: start;
     }
@@ -158,7 +158,7 @@ span{
         font-size: 1rem;
     }
     .customer-image img{
-        width:60px;
+        width:4em;
     }
     .second{
         position: relative;
